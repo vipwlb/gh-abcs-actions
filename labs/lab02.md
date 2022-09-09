@@ -72,4 +72,4 @@ on:
       - main
 ```
 3. Commit the changes into the `main` branch
-4. Go to `Actions` and see the details of your running workflow
+4. Go to `Actions` and see the details of your running workflow  
